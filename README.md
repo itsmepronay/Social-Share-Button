@@ -1,6 +1,6 @@
 # Social-Share-Button
 created by Pronay Sarkar
 
-check demo:- [link]http://socialbuttons.maxseotools.in[/link]
+check demo:- http://socialbuttons.maxseotools.in
 
 visit official blog - www.prowebtips.com
